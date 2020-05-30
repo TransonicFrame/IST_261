@@ -1,0 +1,4 @@
+"first name", "last name", "gpa", "phone number", "skills"
+Sam, Spade, 2.9, 888-555-1212, sleeping
+Jane, Deere, 3.25, 866-555-1212, coffee-drinking; Java
+John, Doe, 3.1, 800-555-1212, people skills; Java; Javascript; Python

@@ -1,0 +1,1 @@
+calendarapp.View.LeftPanel

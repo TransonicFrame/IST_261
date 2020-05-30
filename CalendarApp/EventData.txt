@@ -1,0 +1,6 @@
+Columbus Day, United States, 10, 14, 2019, 12, 0, 0, 10, 14, 2019, 23, 59, 59, true, Today is Columbus Day!
+Christmas Eve, United States, 12, 24, 2019, 24, 00, 00, 12, 24, 2019, 23, 59, 59, false, Today is Christmas Eve!
+Election Day, United States, 11, 5, 2019, 12, 0, 0, 11, 5, 2019, 23, 59, 59, true, Today is Election Day!
+Thanksgiving Day, United States, 11, 28, 2019, 12, 0, 0, 11, 28, 2019, 23, 59, 59, true, Today is Thanksgiving Day!
+Veteran's Day, United States, 11, 11, 2019, 12, 0, 0, 11, 11, 2019, 23, 59, 59, true, Today is Veteran's Day!
+Christmas Day, United States, 12, 25, 2019, 12, 00, 00, 12, 25, 2019, 23, 59, 59, true, Today is Christmas Day!

@@ -1,0 +1,4 @@
+calendarapp.View.NewEventInitialPanel
+calendarapp.View.NewEventInitialPanel$2
+calendarapp.View.NewEventInitialPanel$3
+calendarapp.View.NewEventInitialPanel$1

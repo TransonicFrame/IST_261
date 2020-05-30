@@ -1,0 +1,3 @@
+John, Doe, Temple, 3.1
+Jane, Deere, Penn State, 3.25
+Sam, Spade, LockHaven, 2.9
